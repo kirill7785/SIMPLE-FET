@@ -11,3 +11,4 @@
 Также результаты дублируются в TecPLot360. Можно его использовать для постпроцессинга.
 
 Это бета версия. Приложение не имеет статуса релиза. Используйте на свой страх и риск.
+![alt_text](https://raw.githubusercontent.com/kirill7785/SIMPLE-FET/refs/heads/main/screen.bmp)
